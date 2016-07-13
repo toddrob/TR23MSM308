@@ -473,8 +473,8 @@
           {
             "properties": {
               "protocol": "Http",
-              "port": 8085,
-              "requestPath": "/Probetest/testpage.aspx",
+              "port": 80,
+              "requestPath": "/iisstart.htm",
               "intervalInSeconds": 5,
               "numberOfProbes": 2
             },
